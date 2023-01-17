@@ -21,23 +21,16 @@ process.stdin.on('end', function() {
 function readLine() {
     return inputString[currentLine++];
 }
-
-
 /*
  * Complete a função multiplicando todos os elementos
  * do array `numeros` por dois e retornando um array
  * com esses resultados
  */
-function multiplicaPorDois(numeros){
-    let resultado;
+// escreva aqui seu código:
+ 
+ 
 
-    for (let indicador = 0; indicador < numeros.length; indicador++){
-        resultado = numeros[indicador] * 2;
-        numeros[indicador] = resultado;  
-    }
-    
-    return numeros;
-}
+
 // fim do seu código
 
 function main() {

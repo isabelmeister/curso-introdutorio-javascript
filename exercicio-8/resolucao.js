@@ -32,9 +32,7 @@ function returnMyExercise() {
  * da variável dividendo pela variável divisor
  */
 
-  let dividendo = 100;
-  let divisor = 4;
-  let resultadoDaDivisao = dividendo / divisor; 
+
 
   // fim do seu código
 

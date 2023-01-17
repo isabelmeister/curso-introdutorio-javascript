@@ -32,18 +32,9 @@ function comparaStrings(primeiraString, segundaString) {
  * `segundaString` de acordo com as regras do exercício
  */
 
- let resultado; 
- 
- if(primeiraString.length > segundaString.length){
-     resultado = segundaString + primeiraString;
- }
- else if (segundaString.length > primeiraString.length){
-     resultado = primeiraString + segundaString;
- }
- 
- else {
-     resultado =resultado = segundaString + primeiraString;
- }
+
+
+
 // não altere as linhas abaixo
   return resultado;
 }

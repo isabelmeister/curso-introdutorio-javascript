@@ -37,23 +37,7 @@ function determinarGeracao(anoDeNascimento) {
  * Geração Z: para os que nasceram depois de 1996;
  */
 
-  var resultado;
-  
-  if (anoDeNascimento <= 1945) {
-    resultado = "Geração silenciosa";
-  }
-  else if (anoDeNascimento > 1945 && anoDeNascimento <=1964){
-    resultado = "Boomers";
-  }
-  else if (anoDeNascimento > 1964 && anoDeNascimento <=1980){
-    resultado = "Geração X";
-  }
-  else if (anoDeNascimento > 1980 && anoDeNascimento <=1996){
-    resultado = "Millennials";
-  }
-  else {
-    resultado = "Geração Z";
-  }
+
   
 
 // não altere as linhas abaixo

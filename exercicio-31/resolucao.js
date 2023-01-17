@@ -27,12 +27,11 @@ function readLine() {
  * que receba um parâmentro chamado `nome` e imprima:
  * "Olá, ", seguido do valor do parâmetro `nome`, seguido de exclamação (!)
  */
- 
- function imprimeSaudacao(nome){
-     console.log("Olá, " + nome + "!" );
- }
+
+// escreva aqui seu código:
  
  
+
 // fim do seu código
 
 function main() {

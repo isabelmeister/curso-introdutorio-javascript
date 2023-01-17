@@ -29,7 +29,7 @@ function retornaMinhaNaturalidade() {
  */
 
 
-  const NATURALIDADE = "Brasil";
+
 
 
   // fim do seu código

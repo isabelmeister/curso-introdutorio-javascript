@@ -32,7 +32,7 @@ function comparacaoEntreElementos(elementoA, elementoB) {
  * `elementoA` E `elementoB`.
  */
   
-  let resultado = elementoA && elementoB;
+
 
 // não altere as linhas abaixo
   return resultado;

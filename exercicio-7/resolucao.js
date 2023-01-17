@@ -32,9 +32,7 @@ function returnMyExercise() {
  * das variáveis criadas acima
  */
 
-  let multiplicador = 4;
-  let multiplicando = 10;
-  let resultadoDaMultiplicacao = multiplicador * multiplicando;
+
 
 
   // fim do seu código

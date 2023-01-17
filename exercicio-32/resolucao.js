@@ -21,17 +21,14 @@ process.stdin.on('end', function() {
 function readLine() {
     return inputString[currentLine++];
 }
-
-
 /*
  * Crie aqui uma função `somaDoisElementos`, que irá 
  * receber dois parâmetros, `elementoA` e `elementoB` 
  * e que retorne a soma desses dois números.
  */
- function somaDoisElementos(elementoA, elementoB){
-     let resultado = elementoA + elementoB;
-     return resultado;
- }
+// escreva aqui seu código:
+
+
 
 // fim do seu código
 

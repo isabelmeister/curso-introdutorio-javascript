@@ -32,7 +32,7 @@ function exponencial(base, expoente) {
  * `expoente`
  */
   
-  let potencia = base ** expoente;
+
     
 
 //não altere as linhas abaixo

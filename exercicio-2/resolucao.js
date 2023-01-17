@@ -29,7 +29,7 @@ function retornaMinhaIdade() {
  * sua idade a ela
  */
 
- let minhaIdade = 25;
+
 
   //fim do seu código
   return minhaIdade;

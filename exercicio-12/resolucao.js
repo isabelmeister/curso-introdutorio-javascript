@@ -33,8 +33,7 @@ function moduloPorDois(elementoA) {
  * `elementoA` por 2.
  */
   
-    
-  var resultado = elementoA % 2;
+
 
     
 // não altere as linhas abaixo

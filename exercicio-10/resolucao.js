@@ -32,7 +32,7 @@ function subtracao(elementoA, elementoB) {
  * na váriavel `resultadoSubtracao` (já criada abaixo)
  */
   
-  var resultadoSubtracao = elementoB - elementoA;
+
 
 //não altere as linhas abaixo
   return resultadoSubtracao;

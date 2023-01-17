@@ -31,7 +31,7 @@ function comparacaoEntreElementos(elementoA, elementoB) {
  * `elementoA` igual a `elementoB`?
  */
   
-  let resultado = elementoA === elementoB;
+
 
 // não altere as linhas abaixo
   return resultado;

@@ -27,13 +27,9 @@ function readLine() {
  * que receba dois parametros: `altura` e `peso`
  * e retorne o resultado do calculo de IMC
  */
-
- function calculaIMC (altura, peso) {
-     let calculo;
-     calculo = peso/(altura*altura);
-     return calculo;
- }
-
+// escreva aqui seu código:
+ 
+ 
 
 // fim do seu código
 

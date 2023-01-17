@@ -32,16 +32,10 @@ function converteStringParaArray(frase) {
  * o valor de acordo com as regras do exercício
  */
 
-    let resultado = [] 
-    for ( let indicador = 0; indicador < frase.length; indicador++){
-        resultado[indicador] = frase[indicador];
-        console.log(resultado[indicador] + ",");
-    }
 // escreva aqui seu código:
 
     
-    
-    
+
 // não altere as linhas abaixo
   return resultado;
 }

@@ -30,11 +30,7 @@ function returnMyExercise() {
  * e a constante PI
  */
 
-  let meuTamanho = 166;
-  let corDaMinhaCamisa = "azul";
-  let queroEstudarNaTrybe = true; 
-  let computadorLigado = false;
-  const PI = 3.14159265359;
+
 
   // fim do seu código
 

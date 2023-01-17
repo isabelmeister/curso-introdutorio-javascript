@@ -30,7 +30,7 @@ function soma(elementoA, elementoB) {
  * na váriavel `resultadoSoma` (já criada abaixo)
  */
   
-  var resultadoSoma = elementoA + elementoB;
+
 
 //não altere as linhas abaixo
   return resultadoSoma;

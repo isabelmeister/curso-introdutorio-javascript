@@ -37,16 +37,6 @@ function verificaParOuImpar(elementoA) {
     let resto = 0;
     // Não altere a linha acima e responda na linha abaixo
     
-    resto = elementoA % 2;
-    
-    if (resto >= 1) {
-        
-        resultado = "ímpar";
-    }
-    else {
-        resultado = "par";
-    }
-
     
     
     // Não altere a linha abaixo

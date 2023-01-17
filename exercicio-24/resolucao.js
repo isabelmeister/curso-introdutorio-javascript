@@ -33,15 +33,7 @@ function retornaPrimeiroElemento(lista) {
  * ou a string "array vazio" se o array `lista` estiver vazio.
  */
  
- let resultado; 
- 
- console.log
- if (lista.length === 0){
-     resultado = "array vazio"
- }
- else {
-     resultado = lista[0];
- }
+
 
 // não altere as linhas abaixo
   return resultado;

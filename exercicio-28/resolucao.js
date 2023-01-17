@@ -29,9 +29,7 @@ function imprimirLista(lista) {
  * console.log() todos os elementos do array `lista`
  */
     
-    for (let indice = 0; indice < lista.length; indice ++){
-        console.log(lista[indice]);
-    }
+
     
 
 // não altere a linha abaixo
